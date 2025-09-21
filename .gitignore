@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+
+# Virtualenv
+customer-venv/
+venv/
+ENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Postman
+*.postman_collection.json
+
+# OS
+.DS_Store
+Thumbs.db
+
