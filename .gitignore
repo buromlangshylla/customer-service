@@ -19,7 +19,7 @@ build/
 customer-venv/
 venv/
 ENV/
-#.env
+.env
 
 # IDE
 .vscode/
