@@ -18,6 +18,7 @@ build/
 # Virtualenv
 customer-venv/
 venv/
+customer-venv/
 ENV/
 .env
 
